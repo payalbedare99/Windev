@@ -1,2 +1,0 @@
-C:\Users\Payal\source\repos\MyApp\Debug\MyApp.exe
-C:\Users\Payal\source\repos\MyApp\Debug\MyApp.pdb
