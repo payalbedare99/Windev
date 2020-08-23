@@ -1,0 +1,4 @@
+
+#include"myWindow.h"
+//conventionally resource file written in capital case
+MYICON ICON ring.ico
