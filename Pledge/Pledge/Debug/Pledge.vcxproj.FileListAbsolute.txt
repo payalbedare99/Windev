@@ -1,0 +1,2 @@
+C:\Users\Payal\source\repos\WinDev\Pledge\Pledge\Debug\Pledge.exe
+C:\Users\Payal\source\repos\WinDev\Pledge\Pledge\Debug\Pledge.pdb
