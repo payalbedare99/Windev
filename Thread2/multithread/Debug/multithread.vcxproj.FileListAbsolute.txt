@@ -1,0 +1,2 @@
+C:\Users\Payal\source\repos\WinDev\Thread2\multithread\Debug\multithread.exe
+C:\Users\Payal\source\repos\WinDev\Thread2\multithread\Debug\multithread.pdb
