@@ -1,0 +1,2 @@
+C:\Users\Payal\source\repos\WinDev\01_MyWindow\Window\Debug\Window.exe
+C:\Users\Payal\source\repos\WinDev\01_MyWindow\Window\Debug\Window.pdb
