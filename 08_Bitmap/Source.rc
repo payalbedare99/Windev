@@ -1,0 +1,7 @@
+#include"Source.h"
+
+MYICON ICON ring.ico
+MYBITMAP1 BITMAP mybit1.bmp
+MYBITMAP2 BITMAP mybit2.bmp
+
+
