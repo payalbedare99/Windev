@@ -1,0 +1,2 @@
+C:\Users\Payal\source\repos\WinDev\10_Centering Window\CWindow\Debug\CWindow.exe
+C:\Users\Payal\source\repos\WinDev\10_Centering Window\CWindow\Debug\CWindow.pdb
