@@ -1,0 +1,2 @@
+C:\Users\Payal\source\repos\WinDev\DLL\Server\declspec\ByIDE\MyMath\Debug\MyMath.dll
+C:\Users\Payal\source\repos\WinDev\DLL\Server\declspec\ByIDE\MyMath\Debug\MyMath.pdb
