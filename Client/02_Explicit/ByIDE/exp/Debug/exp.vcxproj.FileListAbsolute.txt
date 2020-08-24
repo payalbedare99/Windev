@@ -1,0 +1,2 @@
+C:\Users\Payal\source\repos\WinDev\DLL\Client\02_Explicit\ByIDE\exp\Debug\exp.exe
+C:\Users\Payal\source\repos\WinDev\DLL\Client\02_Explicit\ByIDE\exp\Debug\exp.pdb
