@@ -1,0 +1,3 @@
+#include"Source.h"
+
+MYICON ICON icon.ico
